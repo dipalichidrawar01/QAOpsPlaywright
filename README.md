@@ -72,3 +72,6 @@ from the Actions tab — no need to reproduce failures locally first."
 - Allure reporting for richer test reports
 - Slack/Teams notification step on CI failure
 - Test sharding across multiple CI jobs for faster runs
+
+## Status
+CI/CD pipeline verified working ✅ — last checked 23 Sep 2026.
